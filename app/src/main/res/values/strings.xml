@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Top 10 Waifu In The World</string>
+    <string name="name_heroes">WAIFU2020</string>
+    <string name="lorem">LOL</string>
+
+    <string-array name="data_name">
+        <item>Albedo</item>
+        <item>Aqua</item>
+        <item>Paimon</item>
+        <item>Sanka</item>
+        <item>Megumi Kato</item>
+        <item>Asuna</item>
+        <item>Hinata</item>
+        <item>Nishimiya</item>
+        <item>Lucy</item>
+        <item>Purple Guy</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+        <item>Powered By FLAMEZOMBIE</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/abd</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/pmn</item>
+        <item>@drawable/sanka</item>
+        <item>@drawable/kato</item>
+        <item>@drawable/swd</item>
+        <item>@drawable/hinata</item>
+        <item>@drawable/nishimiya</item>
+        <item>@drawable/lucy</item>
+        <item>@drawable/pg</item>
+
+
+    </array>
+</resources>
